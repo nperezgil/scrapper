@@ -6,8 +6,8 @@ Miembros del grupo:
 
 Los ficheros de los que se compone el repositorio son:
 
-* ***code/scrapper.py*** que contiene el scrapper de los datos del INE sobre la población
-* ***code/population_pir.py*** script para representar una pirámide de población en el periodo 2020
+* ***scrapper.py*** que contiene el scrapper de los datos del INE sobre la población
+* ***population_pir.py*** script para representar una pirámide de población en el periodo 2020
 * ***respuestas.pdf*** documento pdf con las respuestas a las preguntas de la práctica 2
 * ***population_spain_dataset.csv*** archivo csv con los datos.
 
