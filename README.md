@@ -12,6 +12,6 @@ Los ficheros de los que se compone el repositorio son:
 * ***respuestas.pdf*** documento pdf con las respuestas a las preguntas de la práctica 2
 * ***population_spain_dataset.csv*** es un csv con los datos originales 
 * ***data_population_clean.csv*** es un archivo csv con los datos limpiados. 
-* En la sección de tags cs_files correspondientes al repositorio se encuentra los archivos de datos mencionados anteriormente. 
+* En la sección de tags csv_files correspondientes al repositorio se encuentra los archivos de datos mencionados anteriormente. 
 
 Ejecutar el scrapper scrapper.py generará un fichero csv con los datos.
